@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Puesto Potrillos",
-    "currentPage": "rio.html",
+    "currentPage": "contacto.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -9,9 +9,9 @@
         "primaryColor": "#ff7c20",
         "secondaryColor": "#ff3333",
         "successColor": "#fa901a",
-        "infoColor": "#82786E",
-        "warningColor": "#879A9F",
-        "dangerColor": "#B1A374",
+        "infoColor": "#232323",
+        "warningColor": "#cccccc",
+        "dangerColor": "#ffffff",
         "mainFont": "Rubik",
         "display1Font": "Rubik",
         "display1Size": 4.25,
@@ -54,14 +54,9 @@
     "sitemapSwitcherAuto": "on",
     "siteUrl": "https://puestopotrillos.com.ar",
     "cookiesAlert": false,
-    "gdpr": {
-      "colorText": "#a7a7a7",
-      "colorLink": "#149dcc",
-      "underlineLink": false,
-      "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
-    },
     "screenshot": "screenshot.png",
-    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n"
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
+    "gdpr": false
   },
   "pages": {
     "index.html": {
