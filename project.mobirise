@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Puesto Potrillos",
-    "currentPage": "page2.html",
+    "currentPage": "historia.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2734,7 +2734,7 @@
         }
       ]
     },
-    "page2.html": {
+    "historia.html": {
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "Historia",
